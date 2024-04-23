@@ -1,0 +1,95 @@
+[
+    {
+        "type": "header",
+        "version": "5.2.1",
+        "comment": "Export to JSON plugin for PHPMyAdmin"
+    },
+    {
+        "type": "database",
+        "name": "tp"
+    },
+    {
+        "type": "table",
+        "name": "peliculas",
+        "database": "tp",
+        "data": [
+            {
+                "id": "1",
+                "nombre": "Kun Fu Panda",
+                "duracion": "120",
+                "genero": "Animacion",
+                "idioma": "espanol"
+            },
+            {
+                "id": "2",
+                "nombre": "El Padrino",
+                "duracion": "175",
+                "genero": "Drama",
+                "idioma": "ingles"
+            },
+            {
+                "id": "3",
+                "nombre": "Harry Potter",
+                "duracion": "152",
+                "genero": "Fantasia",
+                "idioma": "espanol"
+            },
+            {
+                "id": "4",
+                "nombre": "Toy Story",
+                "duracion": "81",
+                "genero": "Animacion",
+                "idioma": "ingles"
+            },
+            {
+                "id": "5",
+                "nombre": "Jurassic Park",
+                "duracion": "127",
+                "genero": "Aventura",
+                "idioma": "ingles"
+            },
+            {
+                "id": "6",
+                "nombre": "Avatar",
+                "duracion": "162",
+                "genero": "Ficcion",
+                "idioma": "espanol"
+            },
+            {
+                "id": "7",
+                "nombre": "The Avengers",
+                "duracion": "143",
+                "genero": "Accion",
+                "idioma": "ingles"
+            },
+            {
+                "id": "8",
+                "nombre": "Dragon Ball Z",
+                "duracion": "113",
+                "genero": "Animacion",
+                "idioma": "espanol"
+            },
+            {
+                "id": "9",
+                "nombre": "Rápido y Furioso",
+                "duracion": "139",
+                "genero": "Accion",
+                "idioma": "espanol"
+            },
+            {
+                "id": "10",
+                "nombre": "Spiderman",
+                "duracion": "152",
+                "genero": "Accion",
+                "idioma": "espanol"
+            },
+            {
+                "id": "11",
+                "nombre": "El Rey León",
+                "duracion": "88",
+                "genero": "Animacion",
+                "idioma": "espanol"
+            }
+        ]
+    }
+]
