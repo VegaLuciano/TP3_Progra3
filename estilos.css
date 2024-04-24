@@ -1,0 +1,27 @@
+body, html {
+    height: 100%;
+    background-color: #4f3fb6; 
+}
+
+.table-container {
+    background-color: #6A5ACD; 
+    margin: 20px; 
+    padding: 20px;
+}
+
+.table {
+    text-align: center;
+    color: #ca4a4a;
+}
+h1 {
+    margin: 1px; 
+    padding: 1px;
+    background-color: #6A5ACD;
+    color: #ffffff;
+    font-size: 3m;
+    font-weight: 900;
+    margin: 0 0 0.5em;
+}
+.table-rounded {
+    border-radius: 10px; 
+}
